@@ -96,10 +96,10 @@ p.goodbye{
 #HCB_comment_box .hcb-wrapper-half{display:block;width:50%;float:left}
 
 #HCB_comment_box input.text{display:block;width:95%}
-#HCB_comment_box input.submit{border-top:1px solid white;border-left:1px solid #fcb1a2;border-bottom:1px solid white;border-right:1px solid white;font-weight:700; cursor:pointer}
+#HCB_comment_box input.submit{border-top:1px solid white;border-left:1px solid white;border-bottom:1px solid white;border-right:1px solid white;font-weight:700; cursor:pointer}
 #HCB_comment_box div.comment{color:white;background:rgba(0,0,0,.5);border:3px double white;margin:5px;padding:2px}
 #HCB_comment_box .comment .likes{color:white}
-#HCB_comment_box .hcb-link{color:white;text-decoration:none}
+#HCB_comment_box .hcb-link{color:blue;text-decoration:none}
 /*COMMENT BOX*/
 
 .main{
